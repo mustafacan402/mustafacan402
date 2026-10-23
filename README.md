@@ -32,6 +32,7 @@ An embedded security prototype using FreeRTOS, keypad-based authentication, serv
 
 - [ADEXOS — Adaptive Exam Optimization System](https://github.com/mustafacan402/ADEXOS): An adaptive educational software project combining C# / ASP.NET, Python-based AI components, and a web interface.
 - [Random Movie Picker](https://github.com/mustafacan402/Random-movie-picker): A lightweight application that recommends movies based on the user's preferred genre.
+- [FarmFall](https://github.com/mustafacan402/FarmFall-mobile-game): A 2D physics-based animal merge puzzle mobile game developed with GDevelop.
 
 ---
 
